@@ -1,0 +1,26 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "Curso asincronismo Platzi",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/challenge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanDiossa/asincronismo.git"
+  },
+  "keywords": [
+    "javascript",
+    "async"
+  ],
+  "author": "Juan Diossa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JuanDiossa/asincronismo/issues"
+  },
+  "homepage": "https://github.com/JuanDiossa/asincronismo#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
